@@ -1,4 +1,4 @@
 # backend_emplyoee_portal
-This is backend part of employee portal.
-Backend is created using python language with tornado famework.
-And to store data I have used Mysql database.
+Download dependices from download-dependencies.bat file.
+Run the backend code and check for the host server number and copy the number in env-config.js file which is present in public file of frontend repository.
+After completion of above steps run startup.bat file.
